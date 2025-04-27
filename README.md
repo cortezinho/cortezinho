@@ -1,25 +1,15 @@
-# 👨‍💻 Developer Info
+# Developer Info
 
-Informações sobre o desenvolvedor.
+Este projeto apresenta informações sobre o desenvolvedor.
 
 ## 📦 Atributos do Objeto
 
-- **🧑‍💼 name** (`string`): Nome do desenvolvedor  
-  > `"Gabriel Cortez"`
-
-- **💼 profession** (`string`): Profissão  
-  > `"Full Stack Developer"`
-
-- **🛠️ languages** (`array` de `string`): Linguagens de Programação  
-  > `["Java", "Python", "HTML", "JavaScript", "C#"]`
-
-- **🚀 skills** (`array` de `string`): Habilidades Técnicas  
-  > `["React", "Node.js", "Git"]`
-
-- **🗄️ databases** (`objeto`):
-  - **🧩 sql** (`array` de `string`): Bancos de dados relacionais  
-    > `["MySQL", "PostgreSQL"]`
-
-- **📬 contact** (`objeto`):
-  - **✉️ email** (`string`): E-mail de contato  
-    > `"gabrielcortez2802@gmail.com"`
+- `name` (string): Nome do desenvolvedor (ex: "Gabriel Cortez")
+- `profession` (string): Profissão (ex: "Full Stack Developer")
+- `languages` (array de strings): Linguagens de programação utilizadas (ex: ["Typescript", "Node.js"])
+- `skills` (array de strings): Habilidades principais (ex: ["React", "Node.js", "Git"])
+- `databases` (objeto):
+  - `sql` (array de strings): Bancos de dados relacionais (ex: ["MySQL", "PostgreSQL"])
+  - `nosql` (array de strings): Bancos de dados NoSQL (ex: ["MongoDB", "Supabase"])
+- `contact` (objeto):
+  - `email` (string): E-mail de contato (ex: "gabrielcortez2802@gmail.com")
