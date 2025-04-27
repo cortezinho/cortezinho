@@ -5,7 +5,7 @@ const developer = {
   languages: ["Java", "Python", "Javascript", "HTML", "C#"],
   skills: ["React", "Arduino", "Git"],
   databases: {
-    sql: ["MySQL", "PostgreSQL"]
+    sql: ["MySQL"]
   },
   contact: {
     email: "gabrielcortez2802@gmail.com",
