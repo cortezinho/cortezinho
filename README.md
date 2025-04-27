@@ -9,6 +9,7 @@ const developer = {
   },
   contact: {
     email: "gabrielcortez2802@gmail.com",
+    linkedin:"https://www.linkedin.com/in/gabriel-cortez-8798b9226/"
   },
 };
 
